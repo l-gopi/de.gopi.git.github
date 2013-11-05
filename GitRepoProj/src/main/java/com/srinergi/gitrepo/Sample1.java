@@ -1,4 +1,5 @@
 package com.srinergi.gitrepo;
 
-public class Sample {
+public class Sample1 {
+
 }
